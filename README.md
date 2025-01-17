@@ -1,3 +1,3 @@
-# jailbreak
+# Jailbreak
 
-Hi this the main software development course that main value is assigned
+Hi this the main software development course that _main_ value is **assigned**
